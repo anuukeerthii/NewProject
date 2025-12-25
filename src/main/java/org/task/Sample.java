@@ -41,6 +41,13 @@ public class Sample extends BaseClassMain {
 	    WebElement btnLogin = driver.findElement(By.xpath("//button['value']"));
 	    elementClick(btnLogin);
 	}
+    
+    public static void main(String[] args) {
+		System.out.println("Program started");
+		System.out.println("Program running");
+		System.out.println("Program Ended");
+    	
+	}
 	
 	
 	
