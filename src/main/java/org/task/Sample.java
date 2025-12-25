@@ -44,6 +44,7 @@ public class Sample extends BaseClassMain {
     
     public static void main(String[] args) {
 		System.out.println("Program started");
+		System.out.println("--------------------------");
 		System.out.println("Program running");
 		System.out.println("Program Ended");
     	
